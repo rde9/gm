@@ -1,0 +1,22 @@
+channel_list = [
+    '905267393515905075',  # AI Arena
+    '868497465656111114',  # Fractional
+    '918045471023448064',  # 0xmons
+    '909803582797271040',  # Potion
+    '915237313204858910',  # Zkopru
+    '902246254254370866',  # Shrub Finance
+    '919314971089846323',  # Cozy Finance
+    '903201262621823006',  # Pika Protocol
+    '907770851359850555',  # Instrumental Finance
+    '882488486026969128',  # Chainflip Community
+    '865932508537159681',  # Gearbox Protocol
+    '899760482561458197',  # ZORA
+    '897452330046324786',  # Euler
+    '892610962639716403',  # Connext
+    '899313816402276512',  # RabbitHole
+    '895751634209079337',  # volmex finance
+    '902950805160722533',  # Across Protocol
+    '908611085916057610',  # Neonlabs
+    '857232040826896434',  # Wormhole
+    '913752402254004305',  # LayerSwap
+]
